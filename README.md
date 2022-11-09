@@ -1,5 +1,5 @@
 # Serdar_osu-Skins
-Skin's that I use on my stream
+Skins that I use on my stream. Click on the skin's names to download it.
 
 # [Serdar v1](https://drive.google.com/file/d/1k2CsnFXK1VKfgylgupCvlZakEZXDEJeV/view)
 ![](https://imgur.com/tfDSuh9.png)
@@ -9,3 +9,6 @@ Skin's that I use on my stream
 
 # [Serdar v2 Neon](https://drive.google.com/file/d/147oABT0H5iXs8vJoBNfxEd4zJL9Sab38/view)
 ![](https://imgur.com/sCael6t.png)
+
+# [Serdar v2 Colorful](https://drive.google.com/file/d/1247N0BiGxE56eGEBUpL_fmoev2wFE94T/view?usp=sharing)
+![](https://imgur.com/nPzY5OR.png)
