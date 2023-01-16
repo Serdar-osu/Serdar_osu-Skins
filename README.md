@@ -2,7 +2,7 @@
 Skins that I use on my stream. Click on the skin's names to download it.
 
 # [Custom Cursors](https://drive.google.com/file/d/1x8KnvcbDOiJMXy2ERJleELmEqExD7LeV/view?usp=sharing)
-![](https://imgur.com/a/BdaenE0.png)
+![](https://imgur.com/BdaenE0.png)
 
 # [Serdar v1](https://drive.google.com/file/d/1k2CsnFXK1VKfgylgupCvlZakEZXDEJeV/view)
 ![](https://imgur.com/tfDSuh9.png)
