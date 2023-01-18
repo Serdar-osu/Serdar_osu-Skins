@@ -15,3 +15,6 @@ Skins that I use on my stream. Click on the skin's names to download it.
 
 # [Serdar v2 Colorful](https://drive.google.com/file/d/1247N0BiGxE56eGEBUpL_fmoev2wFE94T/view?usp=sharing)
 ![](https://imgur.com/nPzY5OR.png)
+
+# [Serdar v2 DT](https://drive.google.com/file/d/1sVyTY_qo4Tulrz8X6mTUtA3m8i8Ijaed/view?usp=sharing)
+![](https://imgur.com/H3Q3l4H.png)
